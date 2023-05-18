@@ -34,7 +34,7 @@ well
 4.Check Quality for Garment
 5.Prepare and Follow Up Sample
 6.Check Quantity for Garment
-7.Ensure all documents
+7.Ensure All Documents
 ---
 
 ### Languages and Tools:
